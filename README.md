@@ -1,8 +1,12 @@
 # ideweek
-This line was added with github desktop! :tada: 
+This line was added with github desktop! :tada:
 
 :sparkles:
 
-This line was added with VSCode?
+This line was added with VSCode
+More changes
+Open pull request, Add another commit :octocat:
 
-Open pull request, Add another commit
+This line was added with Atom. :pizza: :sparkles:
+
+More changes
